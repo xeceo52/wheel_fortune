@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Колесо Фортуны</title>
+    <title>Колесо Гавна</title>
 
     @vite(['resources/css/app.css', 'resources/js/wheel.js'])
 
@@ -25,7 +25,7 @@
         <!-- Заголовок -->
         <div class="text-center mb-6 sm:mb-8">
             <h1 class="text-3xl sm:text-4xl font-bold tracking-tight">
-                Колесо Фортуны
+                Динар какашка
             </h1>
         </div>
 
@@ -64,11 +64,11 @@
                 class="w-full sm:w-auto px-8 py-3.5 rounded-full bg-blue-500 hover:bg-blue-600 active:scale-[0.98] transition
                        shadow-lg shadow-blue-500/30 text-base sm:text-lg font-semibold"
             >
-                Крутить!
+                Ебашь!
             </button>
 
             <p class="text-xs text-slate-400">
-                Один клик — один шанс на приз
+                Один клик — и все пизда
             </p>
         </div>
 
